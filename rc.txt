@@ -1,0 +1,5 @@
+[saf]
+type = drive
+scope = drive
+service_account_file = $HOME/acc/1.json
+service_account_file_path = $HOME/acc/
